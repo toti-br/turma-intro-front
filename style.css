@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+
+body {
+    background-color: antiquewhite;
+}
+
+.centralizado {
+    text-align: center;
+}
+
+#segundo-p {
+    color: blue;
+}
